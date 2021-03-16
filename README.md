@@ -1,5 +1,4 @@
 # SQL-educational-center
-This SQL File contains Data Definition Language, Data Manipulation Language  and Data Query Language. 
-
+This project designs and creates structure for Educational center database. 
 #### Author
 Teodora Hristovska
